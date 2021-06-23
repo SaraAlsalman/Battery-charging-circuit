@@ -1,1 +1,2 @@
 # Battery-charging-circuit
+Choosing the battery For motors controller H-bridge circuit depends on several factors, including the voltage of the motors. When you are deciding the size of the battery voltage, you must take into account the voltage drop that will occur due to the two transistors. For example, if you have two motors working at a value of 10 v and the two transistors reduce the voltage by 1.4, you must choose a battery with a higher amount than The two motors by 1.4 volts, which means the battery will have a value of 11.4 volts.
